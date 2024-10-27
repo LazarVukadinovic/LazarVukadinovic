@@ -1,5 +1,11 @@
 ## Hi there 👋
+Hi! I'm Lazar Vukadinovic, a software engineering student at the Faculty of Science, Kragujevac.
+I'm open to internship opportunities, aiming to grow through real-world experience. Let's connect and build something awesome together!
 
+🌱 Currently learning: Data Structures and algorithms and mastering Java
+💼 Seeking: Internship opportunities in web development and software engineering
+🧪 Experimenting with: C# Code Inspection in Rider
+💻 Languages: Java, C#, PHP, Python
 <!--
 **LazarVukadinovic/LazarVukadinovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
