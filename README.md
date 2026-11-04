@@ -1,7 +1,7 @@
 
 # Lazar Vukadinović
 
-**Software Engineering Student | Exploring Software Development & Machine Learning**
+**Software Engineering Student | Exploring AI/ML & Software Systems**
 
 I'm a fourth-year Informatics student at the **University of Kragujevac, Faculty of Science**.
 
