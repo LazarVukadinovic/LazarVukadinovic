@@ -17,7 +17,7 @@ A full-stack geospatial platform featuring interactive maps, location-based reco
 A desktop application for managing coworking spaces, users, and reservations.  
 `C#` · `.NET WinForms` · `MySQL` · `SQL Server`
 
-**[Library Administration System](https://biblioteka.estsnikolatesla.edu.rs/pages/author.php)**  · `2019`  
+**[Library Administration System](https://biblioteka.estsnikolatesla.edu.rs/pages/author.php)**  · `2022-2023`  
 A school library management system with book lending, administration, and reporting features.  
 `PHP` · `JavaScript` · `MySQL`
 
