@@ -9,15 +9,15 @@ I have hands-on experience building desktop and web applications, working with d
 
 ## Projects
 
-**[GeoTrack](https://github.com/LazarVukadinovic/geotrack)**  · `2026`
+**[GeoTrack](https://github.com/LazarVukadinovic/geotrack)**  · `2026`  
 A full-stack geospatial platform featuring interactive maps, location-based recommendations, authentication, and user-generated content.  
 `C#` · `ASP.NET Core` · `Angular` · `PostgreSQL` · `PostGIS`
 
-**[CoworkingChain](https://github.com/LazarVukadinovic/CoworkingChain)**  · `2026`
+**[CoworkingChain](https://github.com/LazarVukadinovic/CoworkingChain)**  · `2026`  
 A desktop application for managing coworking spaces, users, and reservations.  
 `C#` · `.NET WinForms` · `MySQL` · `SQL Server`
 
-**[Library Administration System](https://biblioteka.estsnikolatesla.edu.rs/pages/author.php)**  · `2019`
+**[Library Administration System](https://biblioteka.estsnikolatesla.edu.rs/pages/author.php)**  · `2019`  
 A school library management system with book lending, administration, and reporting features.  
 `PHP` · `JavaScript` · `MySQL`
 
